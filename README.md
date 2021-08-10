@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrej</h1>
 <h3 align="center">A passionate FullStack developer from Serbia</h3>
 
-- 🌱 I’m currently learning **Python Machine Learning**
+- 🌱 I’m currently learning **Python Machine Learning And Automatization**
 
 - 👯 I’m looking to collaborate on **neural networks, AI**
 
