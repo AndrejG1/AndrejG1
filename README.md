@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrej</h1>
 <h3 align="center">A passionate FullStack developer from Serbia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrejg1" alt="andrejg1" /></a> </p>
-
 - 🌱 I’m currently learning **Python Machine Learning**
 
 - 👯 I’m looking to collaborate on **neural networks, AI**
